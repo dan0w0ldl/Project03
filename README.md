@@ -5,3 +5,5 @@ Team Leader: 김단비
 Team Leader: 20241045
 
 Project 03 version1 completed 
+
+“2nd Team Member: <최수민>”
